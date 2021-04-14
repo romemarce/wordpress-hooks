@@ -1,6 +1,6 @@
-# Addons for Wordpress
+# Addons for Wp-Admin panel
 
-## + for /wp-admin
+## + disableMenuAndSubmenu
 
 
 ## License
